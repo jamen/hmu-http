@@ -1,7 +1,7 @@
 {
   "name": "hmu-http",
   "author": "Jamen Marzonie",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A hmu plugin for fetching the HTTP status of a server.",
   "main": "lib",
   "repository": {
