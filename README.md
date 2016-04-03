@@ -1,7 +1,7 @@
 # hmu-http
 > A hmu plugin for fetching the HTTP status of a server.
 
-A [`hmu`](https://github.com/jamen/hmu) plugin that performs a GET request to a HTTP server to check it's status.
+This is a [`hmu`](https://github.com/jamen/hmu) plugin that performs a GET request to a HTTP server to check it's status...  You can provide headers in the request and also use HTTPS.
 
 ## Installation
 ```shell
